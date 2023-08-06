@@ -1,6 +1,6 @@
-## Random Password Generator
+# Random Password Generator
 
-# Overview
+## Overview
 
 This is a simple Python script that generates a random password based on user-defined constraints. The password will contain a mix of uppercase letters, lowercase letters, digits, and special characters.
 
@@ -52,7 +52,7 @@ After entering the desired length (12 in this case), the script will generate a 
 Your password is: Pa$5wDz7@!2R
 ```
 
-# Contributing
+## Contributing
 If you wish to contribute to this project, feel free to open issues or submit pull requests. We welcome any improvements or bug fixes!
 
 
