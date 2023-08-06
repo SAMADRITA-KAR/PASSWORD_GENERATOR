@@ -13,7 +13,7 @@ This is a simple Python script that generates a random password based on user-de
 - [Constraints](#constraints)
 - [Example](#example)
 - [Contributing](#contributing)
-- [License](#license)
+- [Author](#Author)
 
 ## Dependencies
 
