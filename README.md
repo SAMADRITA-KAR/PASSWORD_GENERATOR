@@ -55,4 +55,13 @@ Your password is: Pa$5wDz7@!2R
 ## Contributing
 If you wish to contribute to this project, feel free to open issues or submit pull requests. We welcome any improvements or bug fixes!
 
+## Author
+
+[Samadrita Kar]
+
+- GitHub: [@Samadrita_Kar](https://github.com/SAMADRITA-KAR)
+
+If you find this project helpful or use it in your work, I'd appreciate a shoutout or a star ⭐️ on GitHub.
+
+Thank you for using and contributing to this project!
 
